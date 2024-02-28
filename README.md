@@ -11,18 +11,30 @@
 ## My tech stack
 
 <p align="left">
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
   <a> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=Typescript&logoColor=black">
   </a> 
+  <!-- Nestjs -->
+  <a>
+    <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  </a>
+  <!-- nextjs -->
+  <a>
+    <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
+  <a>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  </a>
+  <!-- expo -->
+  <a>
+    <img alt="Expo" src="https://img.shields.io/badge/expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white">
+  </a>
+  <a>
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  </a>
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
-    <a> 
      <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
-   </a>
+  </a>
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
@@ -32,12 +44,6 @@
   <a> 
     <img alt="Ruby on Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   </a> 
-  <a> 
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  </a>
-  <a>
-    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
   <a>
     <img alt="Postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
