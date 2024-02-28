@@ -12,6 +12,8 @@
 
 <p align="left">
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
   <a> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=Typescript&logoColor=black">
   </a> 
